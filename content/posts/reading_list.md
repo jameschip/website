@@ -1,6 +1,6 @@
 ---
 title: "Reading list."
-author: "James Henderson"
+author: "James"
 date: 2019-07-30T20:33:22+01:00
 draft: false
 summary: "In which I keep a list of the books I have read or wish to read."

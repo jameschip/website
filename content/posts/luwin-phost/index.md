@@ -1,6 +1,6 @@
 ---
 title: "Mini for DnD"
-author: "James Henderson"
+author: "James"
 date: 2019-07-31T19:15:29+01:00
 draft: false
 summary: "In which I have painted a mini for my DnD character."
