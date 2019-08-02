@@ -1,0 +1,53 @@
+:root {
+    --pink-highlight: #f449d5;
+    --dark-background: #232323;
+    --text-colour: #ffffff;
+    --text-colour-darker: #e2e2e2;
+}
+
+body {
+    background-color: var(--dark-background);
+    color: var(--text-colour);
+}
+
+a {
+ color: var(--pink-highlight);
+}
+
+.post-line {
+    border-top: 0.4rem solid var(--pink-highlight);
+}
+
+.catalogue-line {
+    border-top: 0.2rem solid var(--pink-highlight);
+}
+
+.catalogue-item {
+    color: var(--text-colour);
+}
+
+.catalogue-title {
+    color: var(--text-colour-darker);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--text-colour-darker);
+}
+
+.post-title {
+    color: var(--text-colour-darker);
+}
+
+.nav-title {
+    color: var(--text-colour-darker);
+}
+
+.nav a {
+    color: var(--text-colour-darker);
+}
+
