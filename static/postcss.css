@@ -7,6 +7,7 @@
 
 html, 
 body {
+    caret-color: transparent;
     background-color: var(--dark-background);
     color: var(--text-colour);
 }
@@ -52,3 +53,10 @@ h6 {
     color: var(--text-colour-darker);
 }
 
+.pagination span {
+    color: var(--pink-highlight);
+}
+
+.pagination .arrow {
+    color: var(--pink-highlight);
+}
