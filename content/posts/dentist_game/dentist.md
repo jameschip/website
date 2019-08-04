@@ -1,7 +1,7 @@
 ---
 title: "A bad one page rpg"
 date: 2019-08-04T19:36:58+01:00
-draft: true
+draft: false
 summary: In which I have created the worst rpg ever to exist.
 ---
 
