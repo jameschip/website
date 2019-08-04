@@ -10,8 +10,9 @@ Here is a collection of books/ essays I have read or intend to read soon.
 
 ## Bookshelf
 
-This is a list of books that are favorites and have made it onto my permenant bookshelf. This list is not exhaustive.
+This is a list of books that are favorites and have made it onto my permenaet bookshelf.
 
+* [Maus](https://www.amazon.co.uk/Complete-MAUS-Art-Spiegelman/dp/0141014083/ref=sr_1_1?keywords=Maus&qid=1564899946&s=gateway&sr=8-1)
 * [Of Mice and Men](https://www.amazon.co.uk/Mice-Men-Penguin-Red-Classics/dp/0141023570/ref=sr_1_1?keywords=of+mice+and+men&qid=1564598049&s=gateway&sr=8-1) - John Steinbeck
 * [The Woman in Black](https://www.amazon.co.uk/Woman-Black-Susan-Hill/dp/0099288478/ref=sr_1_1?keywords=the+woman+in+black&qid=1564551449&s=gateway&sr=8-1) - Susan Hill
 * [The Machine Stops](https://www.amazon.co.uk/Machine-Stops-Penguin-Modern-Classics/dp/0141195983/ref=sr_1_1?crid=3VA41BD7WLNWH&keywords=the+machine+stops&qid=1564551507&s=gateway&sprefix=The+machine+stops%2Caps%2C152&sr=8-1) - E M Foster
