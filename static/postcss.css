@@ -60,3 +60,7 @@ h6 {
 .pagination .arrow {
     color: var(--pink-highlight);
 }
+
+.footer-icons {
+    display: inline-block;
+}
