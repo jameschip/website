@@ -7,7 +7,7 @@ tags:
 - projects
 - wine-o
 - music
-title: Wine-o
+title: Wine-o good e.p.
 ---
 
 Wine-o were a seven piece skacore band that I was in while in college.  
