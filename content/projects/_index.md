@@ -9,11 +9,11 @@ title: Projects
 ---
 
 ## Software
-[Autograph](https://github.com/jameschip/Autograph) - A minimal markdown editor  
+[2019 ~ Autograph - A small markdown editor.]({{< relref "autograph" >}})   
 [Gumption](https://github.com/jameschip/gumption) - A simple initiative tracker for RPGs  
 
 ## Music  
-[2002 - 2006 ~ Wine-o]({{< relref "wineo" >}}) 
+[2002 - 2006 ~ Wine-o - A skacore band.]({{< relref "wineo" >}}) 
 
 
 

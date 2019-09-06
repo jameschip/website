@@ -20,7 +20,7 @@ It was a very hot summer weekend when this was recorded in our guitarists parent
 * Goody P
 * The worlds fucked up
 * Welcome to England
-* Wine to the o
+* Wine to the o  
 
 ___
 
@@ -35,7 +35,7 @@ This second recording was done at a local recoding studio that we got access to 
 * Goody P
 * Shaolin Crusty
 * Tomorrow
-* We are wine-o
+* We are wine-o  
 
 ___
 
@@ -49,5 +49,5 @@ By this point the band had kind of had its day. The constant traveling with 7 - 
 * Conformity
 * Infested
 * Jetplanes
-* The world is out of line
+* The world is out of line  
 
