@@ -13,9 +13,7 @@ title: Projects
 [Gumption](https://github.com/jameschip/gumption) - A simple initiative tracker for RPGs  
 
 ## Music  
- 
-[2002 ~ Wine-o - "Good e.p."]({{< relref  "wineo/goodep.md" >}})  
-[2003 ~ Wine-o - "Wine-o"]({{< relref "wineo/wineo.md" >}})  
-[2005 ~ Wine-o - Unreleased]({{< relref "wineo/unrel.md">}})  
+[2002 - 2006 ~ Wine-o]({{< relref "wineo" >}}) 
+
 
 
