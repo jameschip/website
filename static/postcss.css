@@ -64,3 +64,8 @@ h6 {
 .footer-icons {
     display: inline-block;
 }
+
+.title-icon {
+    float: left;
+    padding-right: 10px;
+}
