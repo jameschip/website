@@ -10,7 +10,7 @@ title: Almanac
 
 {{< figure src="screenshot.png">}}
 
-Autograph is a tool for life journaling that I wrote. I Wanted a journaling tool that was light weight and not web based as I wanted to keep my log on my local machine instead of on the web for everyone to see. All it had to do was the following:
+Almanac is a tool for life journaling that I wrote. I Wanted a journaling tool that was light weight and not web based as I wanted to keep my log on my local machine instead of on the web for everyone to see. All it had to do was the following:
 
 * Create entries in a log with a subject field
 * Be able to search and display the log by date or subject
