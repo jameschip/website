@@ -2,10 +2,10 @@
 categories:
 - Projects
 date: "2018-2-1"
-description: Almanac
+description: Gumption
 tags:
 - projects
-title: Almanac
+title: Gumption
 ---
 
 {{< figure src="screenshot.png">}}
