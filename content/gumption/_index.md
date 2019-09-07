@@ -1,7 +1,7 @@
 ---
 categories:
 - Projects
-date: "2019-9-1"
+date: "2018-2-1"
 description: Almanac
 tags:
 - projects
