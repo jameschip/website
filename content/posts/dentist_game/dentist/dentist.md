@@ -18,6 +18,6 @@ No was the answer.
 
 Anyhow the game was noted down, a laugh was shared and we never played it. We never played it, you see, because the dentistry themed mechanic was putting your fingers into the other players mouth. This is why this is the worst game of all time, you actually have to put your fingers in the other players mouth. And then they put theirs in yours. It is rank. So you should not play this game but if you are curious then you can download it below. 
 
-<a href="dentist.pdf" download>A Superhero and his nemesis visit go to the dentist</a>
+<a href="/files/dentist.pdf" download>A Superhero and his nemesis visit go to the dentist</a>
 
 The game has not been play tested (or played), it is not proof read or spell checked but there it is. I say DO NOT PLAY IT. if you do and end up ill or injured then don’t blame me, you were warned.
