@@ -5,9 +5,9 @@ draft: false
 summary: "In which I list a whole load of paints and brushes"   
 ---
 
-So i paint a few miniatures here and there and it popped into my mind that I have never made a list of all of my miniature paints. This is not a huge task for made
-as I am not the kind of person that insists on having every single colour imaginable, instead I often mix my own and make do. Thats not to say i don't buy any paint
-at all though. Anyway here is a list of all the little pots i have at the moment. 
+So I paint a few miniatures here and there and it popped into my mind that I have never made a list of all of my miniature paints. This is not a huge task for made
+as I am not the kind of person that insists on having every single colour imaginable, instead I often mix my own and make do. Thats not to say I don't buy any paint
+at all though. Anyway here is a list of all the little pots I have at the moment. 
 
 ## Brushes
 Winsor & Newton Series 7 Sizes: 0 1 2 3  
