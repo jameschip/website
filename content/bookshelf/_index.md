@@ -27,6 +27,7 @@ This is a list of books that are favorites and have made it onto my permenent bo
 Theser are books I have read by year or intend to read soon. I started keeping lists like this to help motivate me to read more. I am a slow reader and often it often gets forgotten or I struggle to fit it in around my life, this is a shame as reading is rewarding in many ways.
 
 ## 2019
+[The Subtle Art of Not Giving A F*ck](https://www.amazon.co.uk/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713/ref=sr_1_1?crid=3PDV54DHP30GV&keywords=the+subtle+art+of+not+giving+a+fck&qid=1571122001&sprefix=the+subt%2Caps%2C171&sr=8-1) - Mark Manson  
 [No One Is Too Small to Make a Difference](https://www.amazon.co.uk/One-Too-Small-Make-Difference/dp/0141991747/ref=sr_1_1?crid=19PK0KJEO8I6J&keywords=greta+thunberg&qid=1568201252&s=gateway&sprefix=greta%2Caps%2C140&sr=8-1) - Greta Thunberg  
 [Finite and Infinite Games](https://www.amazon.co.uk/Finite-Infinite-Games-James-Carse/dp/1476731713/ref=sr_1_1?crid=3GXCR7E0WIZ46&keywords=finite+and+infinite+games&qid=1564515453&s=gateway&sprefix=finite+an%2Caps%2C174&sr=8-1) - James P. Carse  
 [Why I am not a Christian](https://users.drew.edu/~jlenz/whynot.html) - Bertrand Russel  
