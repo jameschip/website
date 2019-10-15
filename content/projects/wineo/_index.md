@@ -8,6 +8,8 @@ tags:
 title: Wine-o
 ---
 
+{{< figure src="wine-o-header.jpg">}}
+
 Wine-o were a seven piece skacore band that I was in while in college, we were known mostly for being the 'party' band always drinking in excess during our gigs. The band was formed when I met the guitarist, Cieran, in the car park outside a local punk gig. We shared a bottle of Chinzano (I still have no ide where it came from but it became somewhat of a band mascot) and bonded over a shared enthusiasm for The Voodoo Glow Skulls. Here you will find for download all the recordings we made between the years of 2002 and 2006.
 ## 2002 ~ The good ep
 
