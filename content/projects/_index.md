@@ -17,6 +17,9 @@ title: Projects
 ## Music  
 [2002 - 2006 ~ Wine-o - A skacore band.]({{< relref "wineo" >}}) 
 
+### Big-Chip
+[2004 Big-Chip - First big-chip release.]({{< relref "big-chip-bcep" >}}) 
+
 ## Games
 [2019 ~ Treecrets - A 200 word rpg]({{< relref "treecrets" >}})  
 
