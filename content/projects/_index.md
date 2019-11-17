@@ -8,17 +8,16 @@ tags:
 title: Projects
 ---
 
-## Software
+# Software
 [2019 ~ Autograph - A small markdown editor.]({{< relref "autograph" >}})  
 [2019 ~ Almanac - A life journaling tool.]({{< relref "almanac" >}})   
 [2018 ~ Gumption - An initiative tracker for ttrpg's.]({{< relref "gumption" >}})   
  
 
-## Music  
-[2002 - 2006 ~ Wine-o - A skacore band.]({{< relref "wineo" >}}) 
-
-### Big-Chip
-[2004 Big-Chip - First big-chip release.]({{< relref "big-chip-bcep" >}}) 
+# Music
+[2002 - 2006 ~ Wine-o - A skacore band.]({{< relref "wineo" >}})  
+[2006 - Big-Chip - First big-chip release.]({{< relref "big-chip-bcep" >}})  
+[2008 - Big-Chip - The second big-chip release]({{< relref "big-chip-bottle" >}})  
 
 ## Games
 [2019 ~ Treecrets - A 200 word rpg]({{< relref "treecrets" >}})  
