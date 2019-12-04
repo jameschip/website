@@ -23,6 +23,7 @@ title: Projects
 
 ## Games
 [2019 ~ Treecrets - A 200 word rpg]({{< relref "treecrets" >}})  
+[2019 ~ The Adventurer - A solo journal writing rpg]({{< relref "the_adventurer" >}})  
 
 ## Visual
 [2019 ~ Inktober - One ink drawing a day during October 2019]({{< relref "inktober-2019" >}})  
